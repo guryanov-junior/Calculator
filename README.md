@@ -8,7 +8,7 @@
 
 ## Description
 
-#### This app is a simple calculator
+#### This app is a simple calculator in a neumorphic design
 
 </br>
 
